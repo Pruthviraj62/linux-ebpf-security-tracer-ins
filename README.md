@@ -8,7 +8,6 @@
 ```
 
 
-> Real-time syscall tracing tool using eBPF for security observability — monitors process execution, file access, network connections, privilege changes, and system operations to detect suspicious behavior.
 
 
 
