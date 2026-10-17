@@ -7,14 +7,10 @@
 ╚══════╝╚═════╝ ╚═╝     ╚═╝            ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚══════╝╚═╝  ╚═╝
 ```
 
-[![Cybersecurity Projects](https://img.shields.io/badge/Cybersecurity--Projects-Project%20%2322-red?style=flat&logo=github)](https://github.com/CarterPerez-dev/Cybersecurity-Projects/tree/main/PROJECTS/beginner/linux-ebpf-security-tracer)
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-[![C](https://img.shields.io/badge/C-eBPF-A8B9CC?style=flat&logo=c&logoColor=black)](https://ebpf.io)
-[![License: AGPLv3](https://img.shields.io/badge/License-AGPL_v3-purple.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 > Real-time syscall tracing tool using eBPF for security observability — monitors process execution, file access, network connections, privilege changes, and system operations to detect suspicious behavior.
 
-*This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
+
 
 ## What It Does
 
